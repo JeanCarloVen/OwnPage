@@ -1,7 +1,7 @@
 
 import { useLoaderData } from 'react-router-dom'
 import { obtenerCitas } from '../data/citas'
-import Works from './works'
+import Works from './Works'
 import Languages from './Languages'
 import Blog from './Blog'
 import Clientes from './Clientes'
