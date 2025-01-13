@@ -1,4 +1,4 @@
-import Cards from "../components/cards"
+import Cards from "../components/Cards"
 import logoBizkit from "../images/LOGO-BIZKIT.png";
 import logoThinkerian from "../images/LOGO-THINKERIAN.png";
 
